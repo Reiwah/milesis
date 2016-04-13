@@ -1,6 +1,6 @@
 Milesis est une marque de bijoux faits main par un artisan bijoutier. 
 Toutes les créations sont réalisées en séries limitées. Nous vous proposons également de créer des bijoux sur-mesure pour répondre à vos envies.
-Vous pouvez acheter en ligne les bijoux. 
+Vous pouvez acheter les bijoux en ligne. 
 
 Si vous avez des questions, contactez-nous !
 
