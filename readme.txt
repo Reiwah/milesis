@@ -1,7 +1,20 @@
 Milesis est une marque de bijoux faits main par un artisan bijoutier. 
-Toutes les créations sont réalisées en séries limitées. Nous vous proposons également de créer des bijoux sur-mesure pour répondre à vos envies.
+Toutes les crÃ©ations sont rÃ©alisÃ©es en sÃ©ries limitÃ©es. Nous vous proposons Ã©galement de crÃ©er des bijoux sur-mesure pour rÃ©pondre Ã  vos envies.
 Vous pouvez acheter les bijoux en ligne. 
 
 Si vous avez des questions, contactez-nous !
 
-Le site a été réalisé par deux étudiantes en M1 360 digital from scratch. 
+Lien : https://github.com/Reiwah/milesis
+
+Langages utilisÃ©s : HTML/CSS, PHP
+
+Dossier images : images
+Page contact.php : fiche contact
+Page fiche_produit.php : fiche produit
+Page footer.php : bas de page 
+Page header.php : haut de page
+Page index.php : page accueil
+style.css : feuille de style
+
+By Manon Allouin & Anne Bui
+Etudiantes en master 1 360 digital.
